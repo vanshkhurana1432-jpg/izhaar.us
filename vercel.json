@@ -2,6 +2,6 @@
   "version": 2,
   "outputDirectory": "public",
   "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
+    { "src": "/(.*)", "dest": "/index-3.html" }
   ]
 }
